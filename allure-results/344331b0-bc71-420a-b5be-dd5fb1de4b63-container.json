@@ -1,0 +1,1 @@
+{"uuid":"344331b0-bc71-420a-b5be-dd5fb1de4b63","name":"test_framework","start":1534230750659,"stop":1534230778879,"children":["7019386d-db58-468a-b8a4-3f39f397bf5b"],"befores":[{"name":"initialize","status":"passed","stage":"finished","description":"","start":1534230750707,"stop":1534230764111}]}

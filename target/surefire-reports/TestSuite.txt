@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 338.771 s <<< FAILURE! - in TestSuite
+craeteAccount(positiveTC.CreateAnAccount)  Time elapsed: 22.813 s  <<< FAILURE!
+java.lang.AssertionError: We weren’t able to sign you up because there’s already an existing account for this email address. If you’ve forgotten your password, we’ll help to reset it expected [true] but found [false]
+	at positiveTC.CreateAnAccount.craeteAccount(CreateAnAccount.java:56)
+
+logIn(positiveTC.Login)  Time elapsed: 30.295 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at positiveTC.Login.logIn(Login.java:60)
+

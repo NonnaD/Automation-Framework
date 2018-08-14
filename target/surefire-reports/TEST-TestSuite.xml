@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="338.771" tests="8" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.specification.version" value="10"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/usr/local/apache-maven/apache-maven-3.5.4/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.vendor" value="&quot;Oracle Corporation&quot;"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Phoenix"/>
+    <property name="maven.conf" value="/usr/local/apache-maven/apache-maven-3.5.4/conf"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="maven.home" value="/usr/local/apache-maven/apache-maven-3.5.4"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/nonna"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2018-07-17"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="10.0.2+13"/>
+    <property name="user.name" value="nonna"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.13.5"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.3"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/mq/n3z2lwc5485c6qkfpdxd5__40000gn/T/"/>
+    <property name="java.version" value="10.0.2"/>
+    <property name="user.dir" value="/Users/nonna/Desktop/test_framework"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/nonna/Desktop/test_framework"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/nonna/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="10.0.2+13"/>
+    <property name="classworlds.conf" value="/usr/local/apache-maven/apache-maven-3.5.4/bin/m2.conf"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="library.jansi.path" value="/usr/local/apache-maven/apache-maven-3.5.4/lib/jansi-native"/>
+    <property name="java.class.version" value="54.0"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+  </properties>
+  <testcase name="craeteAccount" classname="positiveTC.CreateAnAccount" time="22.813">
+    <failure message="We weren’t able to sign you up because there’s already an existing account for this email address. If you’ve forgotten your password, we’ll help to reset it expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: We weren’t able to sign you up because there’s already an existing account for this email address. If you’ve forgotten your password, we’ll help to reset it expected [true] but found [false]
+	at positiveTC.CreateAnAccount.craeteAccount(CreateAnAccount.java:56)
+</failure>
+    <system-out><![CDATA[positiveTC.CreateAnAccount@2ee83775
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 42426
+Only local connections are allowed.
+Aug 14, 2018 12:29:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+log4j:WARN No appenders could be found for logger (io.qameta.allure.AllureLifecycle).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+  </testcase>
+  <testcase name="multyCity" classname="positiveTC.FlightOnlyMultiCity" time="20.439"/>
+  <testcase name="flightOnlyRoundtrip" classname="positiveTC.FlightOnlyRoundtrip" time="13.835"/>
+  <testcase name="flightOneWay" classname="positiveTC.FlightOnlyOneWay" time="10.415"/>
+  <testcase name="logIn" classname="positiveTC.Login" time="30.295">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+	at positiveTC.Login.logIn(Login.java:60)
+</failure>
+    <system-out><![CDATA[positiveTC.Login@7c1447b5
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 33839
+Only local connections are allowed.
+Aug 14, 2018 12:32:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="flightHotel" classname="positiveTC.FlightHotel" time="19.056"/>
+  <testcase name="thingsToDo" classname="positiveTC.ThingsToDo" time="7.135"/>
+  <testcase name="footer" classname="positiveTC.Footer" time="30.847"/>
+</testsuite>

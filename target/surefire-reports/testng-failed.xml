@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="listeners.TestListener"/>
+  </listeners>
+  <test name="Create an account Test(failed)">
+    <classes>
+      <class name="positiveTC.CreateAnAccount">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+          <include name="craeteAccount" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- positiveTC.CreateAnAccount -->
+      <class name="positiveTC.ThingsToDo">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.ThingsToDo -->
+      <class name="positiveTC.FlightOnlyOneWay">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyOneWay -->
+      <class name="positiveTC.FlightHotel">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightHotel -->
+      <class name="positiveTC.FlightOnlyMultiCity">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyMultiCity -->
+      <class name="positiveTC.Footer">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.Footer -->
+      <class name="positiveTC.Login">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.Login -->
+      <class name="positiveTC.FlightOnlyRoundtrip">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyRoundtrip -->
+    </classes>
+  </test> <!-- Create an account Test(failed) -->
+  <test name="Login Test(failed)">
+    <classes>
+      <class name="positiveTC.CreateAnAccount">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.CreateAnAccount -->
+      <class name="positiveTC.ThingsToDo">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.ThingsToDo -->
+      <class name="positiveTC.FlightOnlyOneWay">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyOneWay -->
+      <class name="positiveTC.FlightHotel">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightHotel -->
+      <class name="positiveTC.FlightOnlyMultiCity">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyMultiCity -->
+      <class name="positiveTC.Footer">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.Footer -->
+      <class name="positiveTC.Login">
+        <methods>
+          <include name="initialize"/>
+          <include name="logIn" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.Login -->
+      <class name="positiveTC.FlightOnlyRoundtrip">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyRoundtrip -->
+    </classes>
+  </test> <!-- Login Test(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

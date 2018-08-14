@@ -1,0 +1,519 @@
+[INFO ] 2018-08-14 00:01:25.318 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 00:01:32.135 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 00:01:32.237 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 00:01:32.348 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 00:02:45.885 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 00:02:52.657 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 00:02:52.754 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 00:02:52.867 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 00:04:16.730 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 00:04:21.931 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 00:04:22.088 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 00:04:22.186 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 00:05:22.022 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 00:05:27.891 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 00:05:28.084 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 00:05:28.183 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 00:09:05.616 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 00:09:12.299 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 00:09:12.590 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 00:09:12.689 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 00:11:44.406 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 00:11:50.074 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 00:11:50.185 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 00:11:50.296 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 00:12:44.015 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 00:12:50.032 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 00:12:50.156 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 00:12:50.255 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 00:14:23.200 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 00:14:28.622 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 00:14:28.826 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 00:14:28.965 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 00:17:17.923 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 00:17:25.406 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 00:17:25.565 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 00:17:25.681 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 00:18:48.040 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 00:18:58.716 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 00:18:58.868 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 00:18:58.976 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 00:30:30.482 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2018-08-14 00:30:30.647 [main] CreateAnAccount - Data provider return data
+[INFO ] 2018-08-14 00:30:36.008 [main] CreateAnAccount - Entered data in 'UserName' field
+[INFO ] 2018-08-14 00:30:36.169 [main] CreateAnAccount - Entered data in 'Password' field
+[INFO ] 2018-08-14 00:30:36.261 [main] CreateAnAccount - Entered data in 'FirstName' field
+[INFO ] 2018-08-14 00:30:36.375 [main] CreateAnAccount - Entered data in 'LastName' field
+[INFO ] 2018-08-14 00:32:28.248 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2018-08-14 00:35:52.776 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2018-08-14 00:35:52.893 [main] CreateAnAccount - Data provider return data
+[INFO ] 2018-08-14 00:36:00.216 [main] CreateAnAccount - Entered data in 'UserName' field
+[INFO ] 2018-08-14 00:36:00.385 [main] CreateAnAccount - Entered data in 'Password' field
+[INFO ] 2018-08-14 00:36:00.484 [main] CreateAnAccount - Entered data in 'FirstName' field
+[INFO ] 2018-08-14 00:36:00.597 [main] CreateAnAccount - Entered data in 'LastName' field
+[INFO ] 2018-08-14 00:36:35.858 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2018-08-14 00:38:35.244 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2018-08-14 00:38:35.812 [main] CreateAnAccount - Data provider return data
+[INFO ] 2018-08-14 00:38:42.110 [main] CreateAnAccount - Entered data in 'UserName' field
+[INFO ] 2018-08-14 00:38:42.311 [main] CreateAnAccount - Entered data in 'Password' field
+[INFO ] 2018-08-14 00:38:42.398 [main] CreateAnAccount - Entered data in 'FirstName' field
+[INFO ] 2018-08-14 00:38:42.520 [main] CreateAnAccount - Entered data in 'LastName' field
+[INFO ] 2018-08-14 00:39:05.528 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2018-08-14 00:41:00.405 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2018-08-14 00:41:00.474 [main] CreateAnAccount - Data provider return data
+[INFO ] 2018-08-14 00:41:07.456 [main] CreateAnAccount - Entered data in 'UserName' field
+[INFO ] 2018-08-14 00:41:07.590 [main] CreateAnAccount - Entered data in 'Password' field
+[INFO ] 2018-08-14 00:41:07.996 [main] CreateAnAccount - Entered data in 'FirstName' field
+[INFO ] 2018-08-14 00:41:08.121 [main] CreateAnAccount - Entered data in 'LastName' field
+[INFO ] 2018-08-14 00:41:33.295 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2018-08-14 00:43:06.193 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2018-08-14 00:43:06.552 [main] CreateAnAccount - Data provider return data
+[INFO ] 2018-08-14 00:43:13.970 [main] CreateAnAccount - Entered data in 'UserName' field
+[INFO ] 2018-08-14 00:43:14.106 [main] CreateAnAccount - Entered data in 'Password' field
+[INFO ] 2018-08-14 00:43:14.204 [main] CreateAnAccount - Entered data in 'FirstName' field
+[INFO ] 2018-08-14 00:43:14.320 [main] CreateAnAccount - Entered data in 'LastName' field
+[INFO ] 2018-08-14 00:43:26.605 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2018-08-14 00:44:33.814 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2018-08-14 00:44:33.964 [main] CreateAnAccount - Data provider return data
+[INFO ] 2018-08-14 00:44:43.104 [main] CreateAnAccount - Entered data in 'UserName' field
+[INFO ] 2018-08-14 00:44:43.383 [main] CreateAnAccount - Entered data in 'Password' field
+[INFO ] 2018-08-14 00:44:43.473 [main] CreateAnAccount - Entered data in 'FirstName' field
+[INFO ] 2018-08-14 00:44:43.588 [main] CreateAnAccount - Entered data in 'LastName' field
+[INFO ] 2018-08-14 00:44:56.354 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2018-08-14 01:00:55.761 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2018-08-14 01:00:55.891 [main] CreateAnAccount - Data provider return data
+[INFO ] 2018-08-14 01:00:59.728 [main] CreateAnAccount - Entered data in 'UserName' field
+[INFO ] 2018-08-14 01:00:59.851 [main] CreateAnAccount - Entered data in 'Password' field
+[INFO ] 2018-08-14 01:00:59.939 [main] CreateAnAccount - Entered data in 'FirstName' field
+[INFO ] 2018-08-14 01:01:00.068 [main] CreateAnAccount - Entered data in 'LastName' field
+[INFO ] 2018-08-14 01:01:13.217 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2018-08-14 01:02:35.525 [main] Login - Driver is initialized
+[INFO ] 2018-08-14 01:02:35.597 [main] Login - Page is opened
+[INFO ] 2018-08-14 01:02:35.822 [main] Login - Drop down menu is displayed
+[INFO ] 2018-08-14 01:02:37.013 [main] Login - Sign In grid is displayed 
+[ERROR] 2018-08-14 01:02:51.481 [main] Login - Error message
+[INFO ] 2018-08-14 01:03:03.161 [main] Login - TEST FINISHED
+[INFO ] 2018-08-14 01:03:10.593 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 01:03:19.347 [main] FlightHotel - Flight an Hotel grid is displayed
+[INFO ] 2018-08-14 01:03:22.632 [main] FlightHotel - Entered data in 'Origin' field
+[INFO ] 2018-08-14 01:03:22.915 [main] FlightHotel - Entered data in 'Destination' field
+[INFO ] 2018-08-14 01:03:25.053 [main] FlightHotel - Date fields are filed
+[INFO ] 2018-08-14 01:03:25.285 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 01:03:25.368 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 01:03:25.470 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 01:03:26.627 [main] FlightHotel - Class priority is selected
+[INFO ] 2018-08-14 01:03:38.604 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 01:03:43.782 [main] ThingsToDo - Driver is initialized
+[INFO ] 2018-08-14 01:05:06.119 [main] ThingsToDo - Entered data in the Destenation field
+[INFO ] 2018-08-14 01:05:08.994 [main] ThingsToDo - TEST FINISHED
+[INFO ] 2018-08-14 01:05:15.396 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 01:05:21.701 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 01:05:21.823 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 01:05:21.918 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 01:20:10.210 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2018-08-14 01:20:10.330 [main] CreateAnAccount - Data provider return data
+[INFO ] 2018-08-14 01:20:14.077 [main] CreateAnAccount - Entered data in 'UserName' field
+[INFO ] 2018-08-14 01:20:14.201 [main] CreateAnAccount - Entered data in 'Password' field
+[INFO ] 2018-08-14 01:20:14.290 [main] CreateAnAccount - Entered data in 'FirstName' field
+[INFO ] 2018-08-14 01:20:14.399 [main] CreateAnAccount - Entered data in 'LastName' field
+[INFO ] 2018-08-14 01:20:27.678 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2018-08-14 01:20:34.576 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 01:21:55.889 [main] FlightHotel - Multy City grid is displayed
+[INFO ] 2018-08-14 01:21:59.047 [main] FlightHotel - Entered data in 'From' field
+[INFO ] 2018-08-14 01:21:59.682 [main] FlightHotel - Entered data in 'To' field
+[INFO ] 2018-08-14 01:22:00.786 [main] FlightHotel - Departing date is selected
+[INFO ] 2018-08-14 01:22:00.999 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 01:22:01.168 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 01:22:01.344 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 01:22:01.672 [main] FlightHotel - Entered data in 'From2' field
+[INFO ] 2018-08-14 01:22:02.022 [main] FlightHotel - Entered data in 'To2' field
+[INFO ] 2018-08-14 01:22:03.019 [main] FlightHotel - Departing2 date is selected
+[INFO ] 2018-08-14 01:22:09.750 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 01:22:16.161 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 01:22:18.805 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 01:22:19.333 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 01:22:19.621 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 01:22:21.667 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 01:22:21.817 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 01:22:21.979 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 01:22:22.131 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 01:22:27.727 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 01:22:32.378 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 01:22:35.059 [main] FlightHotel - One Way grid is displayed
+[INFO ] 2018-08-14 01:22:35.504 [main] FlightHotel - Entered data in 'From' field
+[INFO ] 2018-08-14 01:22:35.899 [main] FlightHotel - Entered data in 'To' field
+[INFO ] 2018-08-14 01:22:36.731 [main] FlightHotel - Date field is filed
+[INFO ] 2018-08-14 01:22:36.889 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 01:22:37.042 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 01:22:37.185 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 01:22:37.485 [main] FlightHotel - Non Stop is selected
+[INFO ] 2018-08-14 01:24:00.616 [main] FlightHotel - Class priority is selected
+[INFO ] 2018-08-14 01:24:00.943 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 01:24:06.349 [main] Login - Driver is initialized
+[INFO ] 2018-08-14 01:24:06.352 [main] Login - Page is opened
+[INFO ] 2018-08-14 01:24:11.164 [main] Login - Drop down menu is displayed
+[INFO ] 2018-08-14 01:24:12.261 [main] Login - Sign In grid is displayed 
+[ERROR] 2018-08-14 01:24:24.714 [main] Login - Error message
+[INFO ] 2018-08-14 01:24:36.409 [main] Login - TEST FINISHED
+[INFO ] 2018-08-14 01:24:42.406 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 01:24:45.107 [main] FlightHotel - Flight an Hotel grid is displayed
+[INFO ] 2018-08-14 01:24:45.629 [main] FlightHotel - Entered data in 'Origin' field
+[INFO ] 2018-08-14 01:24:45.930 [main] FlightHotel - Entered data in 'Destination' field
+[INFO ] 2018-08-14 01:24:47.752 [main] FlightHotel - Date fields are filed
+[INFO ] 2018-08-14 01:24:47.841 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 01:24:47.923 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 01:24:48.006 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 01:24:49.724 [main] FlightHotel - Class priority is selected
+[INFO ] 2018-08-14 01:24:54.423 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 01:24:59.254 [main] ThingsToDo - Driver is initialized
+[INFO ] 2018-08-14 01:26:23.507 [main] ThingsToDo - Entered data in the Destenation field
+[INFO ] 2018-08-14 01:26:25.328 [main] ThingsToDo - TEST FINISHED
+[INFO ] 2018-08-14 01:26:31.961 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 01:27:53.367 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 01:27:53.468 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 01:27:53.564 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 01:27:53.721 [main] Footer - Link opened -Hotels in Washington, District of Columbia
+[INFO ] 2018-08-14 01:27:53.827 [main] Footer - Link opened -Hotels in Boston, Massachusetts
+[INFO ] 2018-08-14 01:27:54.060 [main] Footer - Link opened -Hotels in San Diego, California
+[INFO ] 2018-08-14 01:27:54.518 [main] Footer - Link opened -Hotels in Orlando, Florida
+[INFO ] 2018-08-14 01:27:54.885 [main] Footer - Link opened -Hotels in London, United Kingdom
+[INFO ] 2018-08-14 01:27:55.263 [main] Footer - Link opened -Hotels in New Orleans, Louisiana
+[INFO ] 2018-08-14 01:27:55.758 [main] Footer - Link opened -Hotels in Los Angeles, California
+[INFO ] 2018-08-14 01:27:56.191 [main] Footer - Link opened -Hotels in San Antonio, Texas
+[INFO ] 2018-08-14 01:27:56.624 [main] Footer - Link opened -Hotels in Paris, France
+[INFO ] 2018-08-14 01:27:56.962 [main] Footer - Link opened -Hotels in Seattle, Washington
+[INFO ] 2018-08-14 01:27:57.604 [main] Footer - Link opened -Hotels in Atlanta, Georgia
+[INFO ] 2018-08-14 01:27:58.214 [main] Footer - Link opened -Hotels in Philadelphia, Pennsylvania
+[INFO ] 2018-08-14 01:27:58.969 [main] Footer - Link opened -Hotels in Austin, Texas
+[INFO ] 2018-08-14 01:28:00.033 [main] Footer - Link opened -Hotels in Atlantic City, New Jersey
+[INFO ] 2018-08-14 01:28:00.914 [main] Footer - Link opened -Hotels in Rome, Italy
+[INFO ] 2018-08-14 01:28:02.142 [main] Footer - Link opened -Hotels in Myrtle Beach, South Carolina
+[INFO ] 2018-08-14 01:28:03.481 [main] Footer - Link opened -Hotels in Dallas, Texas
+[INFO ] 2018-08-14 01:28:04.657 [main] Footer - Link opened -Hotels in Houston, Texas
+[INFO ] 2018-08-14 01:28:06.217 [main] Footer - Link opened -Hotels in Denver, Colorado
+[INFO ] 2018-08-14 01:28:07.858 [main] Footer - Link opened -Hotels in Miami, Florida
+[INFO ] 2018-08-14 01:28:18.857 [main] Footer - TEST FINISHED
+[INFO ] 2018-08-14 01:32:57.014 [main] ThingsToDo - Driver is initialized
+[INFO ] 2018-08-14 01:33:07.205 [main] ThingsToDo - Entered data in the Destenation field
+[INFO ] 2018-08-14 01:33:09.545 [main] ThingsToDo - TEST FINISHED
+[INFO ] 2018-08-14 01:37:20.533 [main] ThingsToDo - Driver is initialized
+[INFO ] 2018-08-14 01:37:42.093 [main] ThingsToDo - TEST FINISHED
+[INFO ] 2018-08-14 01:38:16.030 [main] ThingsToDo - Driver is initialized
+[INFO ] 2018-08-14 01:38:28.226 [main] ThingsToDo - Entered data in the Destenation field
+[INFO ] 2018-08-14 01:38:29.372 [main] ThingsToDo - Entered data in the From field
+[INFO ] 2018-08-14 01:38:31.413 [main] ThingsToDo - Entered data in the TO field
+[INFO ] 2018-08-14 01:38:32.105 [main] ThingsToDo - TEST FINISHED
+[INFO ] 2018-08-14 01:48:58.727 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2018-08-14 01:48:58.855 [main] CreateAnAccount - Data provider return data
+[INFO ] 2018-08-14 01:50:20.327 [main] CreateAnAccount - Entered data in 'UserName' field
+[INFO ] 2018-08-14 01:50:20.555 [main] CreateAnAccount - Entered data in 'Password' field
+[INFO ] 2018-08-14 01:50:30.679 [main] CreateAnAccount - Entered data in 'FirstName' field
+[INFO ] 2018-08-14 01:50:30.806 [main] CreateAnAccount - Entered data in 'LastName' field
+[INFO ] 2018-08-14 01:50:43.748 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2018-08-14 01:50:51.310 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 01:52:09.304 [main] FlightHotel - Multy City grid is displayed
+[INFO ] 2018-08-14 01:52:11.766 [main] FlightHotel - Entered data in 'From' field
+[INFO ] 2018-08-14 01:52:12.178 [main] FlightHotel - Entered data in 'To' field
+[INFO ] 2018-08-14 01:52:13.182 [main] FlightHotel - Departing date is selected
+[INFO ] 2018-08-14 01:52:13.362 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 01:52:13.533 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 01:52:13.694 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 01:52:13.991 [main] FlightHotel - Entered data in 'From2' field
+[INFO ] 2018-08-14 01:52:14.337 [main] FlightHotel - Entered data in 'To2' field
+[INFO ] 2018-08-14 01:52:15.361 [main] FlightHotel - Departing2 date is selected
+[INFO ] 2018-08-14 01:52:23.006 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 01:52:28.996 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 01:52:37.604 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 01:52:38.401 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 01:52:38.693 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 01:52:42.741 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 01:52:47.122 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 01:52:50.136 [main] FlightHotel - One Way grid is displayed
+[INFO ] 2018-08-14 01:52:50.472 [main] FlightHotel - Entered data in 'From' field
+[INFO ] 2018-08-14 01:52:50.865 [main] FlightHotel - Entered data in 'To' field
+[INFO ] 2018-08-14 01:52:51.678 [main] FlightHotel - Date field is filed
+[INFO ] 2018-08-14 01:52:51.816 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 01:52:51.974 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 01:52:52.124 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 01:52:52.336 [main] FlightHotel - Non Stop is selected
+[INFO ] 2018-08-14 01:52:58.623 [main] FlightHotel - Class priority is selected
+[INFO ] 2018-08-14 01:52:58.896 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 01:53:04.339 [main] Login - Driver is initialized
+[INFO ] 2018-08-14 01:53:04.342 [main] Login - Page is opened
+[INFO ] 2018-08-14 01:53:04.656 [main] Login - Drop down menu is displayed
+[INFO ] 2018-08-14 01:53:05.609 [main] Login - Sign In grid is displayed 
+[INFO ] 2018-08-14 01:53:10.810 [main] Login - Your successfully signed in 
+[INFO ] 2018-08-14 01:53:11.246 [main] Login - TEST FINISHED
+[INFO ] 2018-08-14 01:53:15.813 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 01:53:22.529 [main] FlightHotel - Flight an Hotel grid is displayed
+[INFO ] 2018-08-14 01:53:23.303 [main] FlightHotel - Entered data in 'Origin' field
+[INFO ] 2018-08-14 01:53:23.578 [main] FlightHotel - Entered data in 'Destination' field
+[INFO ] 2018-08-14 01:53:25.367 [main] FlightHotel - Date fields are filed
+[INFO ] 2018-08-14 01:53:25.455 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 01:53:25.535 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 01:53:25.616 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 01:53:26.598 [main] FlightHotel - Class priority is selected
+[INFO ] 2018-08-14 01:53:38.808 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 01:53:44.198 [main] ThingsToDo - Driver is initialized
+[INFO ] 2018-08-14 01:55:05.982 [main] ThingsToDo - Entered data in the Destenation field
+[INFO ] 2018-08-14 01:55:10.921 [main] ThingsToDo - TEST FINISHED
+[INFO ] 2018-08-14 01:55:20.302 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 01:55:23.099 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 01:55:23.193 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 01:55:23.304 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 01:55:23.416 [main] Footer - Link opened -Hotels in Washington, District of Columbia
+[INFO ] 2018-08-14 01:55:23.599 [main] Footer - Link opened -Hotels in Boston, Massachusetts
+[INFO ] 2018-08-14 01:55:23.820 [main] Footer - Link opened -Hotels in San Diego, California
+[INFO ] 2018-08-14 01:55:24.119 [main] Footer - Link opened -Hotels in Orlando, Florida
+[INFO ] 2018-08-14 01:55:24.393 [main] Footer - Link opened -Hotels in London, United Kingdom
+[INFO ] 2018-08-14 01:55:24.656 [main] Footer - Link opened -Hotels in New Orleans, Louisiana
+[INFO ] 2018-08-14 01:55:25.121 [main] Footer - Link opened -Hotels in Los Angeles, California
+[INFO ] 2018-08-14 01:55:25.567 [main] Footer - Link opened -Hotels in San Antonio, Texas
+[INFO ] 2018-08-14 01:55:26.186 [main] Footer - Link opened -Hotels in Paris, France
+[INFO ] 2018-08-14 01:55:26.488 [main] Footer - Link opened -Hotels in Seattle, Washington
+[INFO ] 2018-08-14 01:55:27.424 [main] Footer - Link opened -Hotels in Atlanta, Georgia
+[INFO ] 2018-08-14 01:55:28.094 [main] Footer - Link opened -Hotels in Philadelphia, Pennsylvania
+[INFO ] 2018-08-14 01:55:28.466 [main] Footer - Link opened -Hotels in Austin, Texas
+[INFO ] 2018-08-14 01:55:32.401 [main] Footer - Link opened -Hotels in Atlantic City, New Jersey
+[INFO ] 2018-08-14 01:55:33.540 [main] Footer - Link opened -Hotels in Rome, Italy
+[INFO ] 2018-08-14 01:55:34.787 [main] Footer - Link opened -Hotels in Myrtle Beach, South Carolina
+[INFO ] 2018-08-14 01:55:35.412 [main] Footer - Link opened -Hotels in Dallas, Texas
+[INFO ] 2018-08-14 01:55:36.239 [main] Footer - Link opened -Hotels in Houston, Texas
+[INFO ] 2018-08-14 01:55:37.363 [main] Footer - Link opened -Hotels in Denver, Colorado
+[INFO ] 2018-08-14 01:55:39.319 [main] Footer - Link opened -Hotels in Miami, Florida
+[INFO ] 2018-08-14 01:55:52.634 [main] Footer - TEST FINISHED
+[INFO ] 2018-08-14 02:10:14.631 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 02:11:38.775 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 02:11:41.748 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 02:11:42.331 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 02:11:46.855 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 02:13:16.483 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 02:13:25.390 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 02:13:28.212 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 02:13:28.518 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 02:13:32.239 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 02:14:14.283 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 02:14:23.252 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 02:14:25.889 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 02:14:26.190 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 02:14:32.116 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 02:14:32.440 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 02:14:32.600 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 02:14:32.759 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 02:14:43.579 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 02:16:49.414 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 02:16:54.945 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 02:16:58.170 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 02:16:58.580 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 02:17:04.486 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 02:17:04.641 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 02:17:04.799 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 02:17:04.944 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 02:17:16.101 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 02:18:23.145 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 02:19:45.416 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 02:19:48.244 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 02:19:48.566 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 02:19:54.513 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 02:19:54.671 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 02:19:54.837 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 02:19:54.987 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 02:20:06.139 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 02:23:17.260 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 02:23:22.637 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 02:23:25.949 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 02:23:26.307 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 02:23:32.268 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 02:23:32.416 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 02:23:32.572 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 02:23:32.721 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 02:23:43.797 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 02:24:43.510 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 02:26:06.442 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 02:26:09.082 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 02:26:09.391 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 02:26:14.917 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 02:26:15.083 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 02:26:15.256 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 02:26:15.400 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 02:26:26.339 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 02:27:02.209 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 02:28:24.592 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 02:28:27.631 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 02:28:27.997 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 02:28:33.481 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 02:28:33.643 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 02:28:33.814 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 02:28:33.957 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 02:28:44.786 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 02:30:00.942 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 02:30:06.765 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 02:30:10.523 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 02:30:10.840 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 02:30:16.473 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 02:30:16.710 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 02:30:16.878 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 02:30:17.029 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 02:30:27.827 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 11:25:53.023 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 11:26:05.580 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 11:26:08.862 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 11:26:09.241 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 11:26:14.897 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 11:26:15.089 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 11:26:15.250 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 11:26:15.396 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 11:26:26.572 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:07:36.271 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 12:07:39.387 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 12:07:42.305 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 12:07:42.622 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 12:07:48.033 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 12:07:48.192 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 12:07:48.358 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 12:07:48.498 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 12:07:59.879 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:10:06.537 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 12:10:17.323 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 12:10:20.569 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 12:10:20.882 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 12:10:26.799 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 12:10:27.028 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 12:10:27.186 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 12:10:27.330 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 12:10:38.233 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:12:57.242 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 12:13:06.392 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 12:13:09.532 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 12:13:09.937 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 12:13:15.623 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 12:13:15.779 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 12:13:15.943 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 12:13:16.093 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 12:13:26.991 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:13:55.211 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 12:15:16.161 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 12:15:19.955 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 12:15:20.421 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 12:15:26.304 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 12:15:26.469 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 12:15:26.645 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 12:15:26.797 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 12:15:37.716 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:16:38.009 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 12:16:41.267 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 12:16:44.663 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 12:16:45.210 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 12:16:47.924 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 12:16:48.106 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 12:16:48.272 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 12:16:48.416 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 12:16:53.569 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:21:32.670 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 12:21:41.571 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 12:21:44.384 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 12:21:44.694 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 12:21:47.262 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 12:21:47.419 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 12:21:47.592 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 12:21:47.740 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 12:23:13.010 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:25:53.327 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 12:26:02.248 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 12:26:05.248 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 12:26:05.642 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 12:26:08.225 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 12:26:08.395 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 12:26:08.574 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 12:26:08.727 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 12:26:15.932 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:26:40.626 [main] ThingsToDo - Driver is initialized
+[INFO ] 2018-08-14 12:26:54.782 [main] ThingsToDo - Entered data in the Destenation field
+[INFO ] 2018-08-14 12:26:56.296 [main] ThingsToDo - Entered data in the From field
+[INFO ] 2018-08-14 12:26:58.135 [main] ThingsToDo - Entered data in the TO field
+[INFO ] 2018-08-14 12:26:58.769 [main] ThingsToDo - TEST FINISHED
+[INFO ] 2018-08-14 12:30:39.388 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2018-08-14 12:30:39.713 [main] CreateAnAccount - Data provider return data
+[INFO ] 2018-08-14 12:30:47.665 [main] CreateAnAccount - Entered data in 'UserName' field
+[INFO ] 2018-08-14 12:30:48.267 [main] CreateAnAccount - Entered data in 'Password' field
+[INFO ] 2018-08-14 12:30:49.704 [main] CreateAnAccount - Entered data in 'FirstName' field
+[INFO ] 2018-08-14 12:30:49.843 [main] CreateAnAccount - Entered data in 'LastName' field
+[INFO ] 2018-08-14 12:31:03.885 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2018-08-14 12:31:10.535 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 12:31:15.089 [main] FlightHotel - Multy City grid is displayed
+[INFO ] 2018-08-14 12:31:20.727 [main] FlightHotel - Entered data in 'From' field
+[INFO ] 2018-08-14 12:31:21.332 [main] FlightHotel - Entered data in 'To' field
+[INFO ] 2018-08-14 12:31:22.433 [main] FlightHotel - Departing date is selected
+[INFO ] 2018-08-14 12:31:22.636 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 12:31:22.826 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 12:31:22.997 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 12:31:23.285 [main] FlightHotel - Entered data in 'From2' field
+[INFO ] 2018-08-14 12:31:23.605 [main] FlightHotel - Entered data in 'To2' field
+[INFO ] 2018-08-14 12:31:24.692 [main] FlightHotel - Departing2 date is selected
+[INFO ] 2018-08-14 12:31:31.119 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:31:36.214 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 12:31:38.606 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2018-08-14 12:31:39.173 [main] FlightHotel - Entered data in 'FROM' field
+[INFO ] 2018-08-14 12:31:39.466 [main] FlightHotel - Entered data in 'TO' field
+[INFO ] 2018-08-14 12:31:41.939 [main] FlightHotel - Date fileds are filed
+[INFO ] 2018-08-14 12:31:42.092 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 12:31:42.253 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 12:31:42.405 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 12:31:50.303 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:31:55.182 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 12:31:58.048 [main] FlightHotel - One Way grid is displayed
+[INFO ] 2018-08-14 12:31:58.507 [main] FlightHotel - Entered data in 'From' field
+[INFO ] 2018-08-14 12:31:58.923 [main] FlightHotel - Entered data in 'To' field
+[INFO ] 2018-08-14 12:31:59.797 [main] FlightHotel - Date field is filed
+[INFO ] 2018-08-14 12:31:59.955 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 12:32:00.118 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 12:32:00.263 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 12:32:00.497 [main] FlightHotel - Non Stop is selected
+[INFO ] 2018-08-14 12:32:05.568 [main] FlightHotel - Class priority is selected
+[INFO ] 2018-08-14 12:32:05.839 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:32:10.802 [main] Login - Driver is initialized
+[INFO ] 2018-08-14 12:32:10.804 [main] Login - Page is opened
+[INFO ] 2018-08-14 12:32:11.100 [main] Login - Drop down menu is displayed
+[INFO ] 2018-08-14 12:32:17.481 [main] Login - Sign In grid is displayed 
+[ERROR] 2018-08-14 12:32:30.064 [main] Login - Error message
+[INFO ] 2018-08-14 12:32:41.616 [main] Login - TEST FINISHED
+[INFO ] 2018-08-14 12:32:53.428 [main] FlightHotel - Driver is initialized
+[INFO ] 2018-08-14 12:32:55.807 [main] FlightHotel - Flight an Hotel grid is displayed
+[INFO ] 2018-08-14 12:32:56.269 [main] FlightHotel - Entered data in 'Origin' field
+[INFO ] 2018-08-14 12:32:56.548 [main] FlightHotel - Entered data in 'Destination' field
+[INFO ] 2018-08-14 12:32:58.571 [main] FlightHotel - Date fields are filed
+[INFO ] 2018-08-14 12:32:58.657 [main] FlightHotel - Numbers of adult is selected
+[INFO ] 2018-08-14 12:32:58.748 [main] FlightHotel - Numbers of children is selected
+[INFO ] 2018-08-14 12:32:58.839 [main] FlightHotel - Numbers of childAge is selected
+[INFO ] 2018-08-14 12:33:00.152 [main] FlightHotel - Class priority is selected
+[INFO ] 2018-08-14 12:33:12.875 [main] FlightHotel - TEST FINISHED
+[INFO ] 2018-08-14 12:33:19.996 [main] ThingsToDo - Driver is initialized
+[INFO ] 2018-08-14 12:33:24.004 [main] ThingsToDo - Entered data in the Destenation field
+[INFO ] 2018-08-14 12:33:25.417 [main] ThingsToDo - Entered data in the From field
+[INFO ] 2018-08-14 12:33:27.060 [main] ThingsToDo - Entered data in the TO field
+[INFO ] 2018-08-14 12:33:27.278 [main] ThingsToDo - TEST FINISHED
+[INFO ] 2018-08-14 12:33:34.580 [main] Footer - Driver is initialized
+[INFO ] 2018-08-14 12:33:41.944 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2018-08-14 12:33:42.121 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2018-08-14 12:33:42.244 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2018-08-14 12:33:42.391 [main] Footer - Link opened -Hotels in Washington, District of Columbia
+[INFO ] 2018-08-14 12:33:42.577 [main] Footer - Link opened -Hotels in Boston, Massachusetts
+[INFO ] 2018-08-14 12:33:42.710 [main] Footer - Link opened -Hotels in San Diego, California
+[INFO ] 2018-08-14 12:33:42.883 [main] Footer - Link opened -Hotels in Orlando, Florida
+[INFO ] 2018-08-14 12:33:43.037 [main] Footer - Link opened -Hotels in London, United Kingdom
+[INFO ] 2018-08-14 12:33:43.185 [main] Footer - Link opened -Hotels in New Orleans, Louisiana
+[INFO ] 2018-08-14 12:33:43.389 [main] Footer - Link opened -Hotels in Los Angeles, California
+[INFO ] 2018-08-14 12:33:43.614 [main] Footer - Link opened -Hotels in San Antonio, Texas
+[INFO ] 2018-08-14 12:33:44.772 [main] Footer - Link opened -Hotels in Paris, France
+[INFO ] 2018-08-14 12:33:45.034 [main] Footer - Link opened -Hotels in Seattle, Washington
+[INFO ] 2018-08-14 12:33:45.758 [main] Footer - Link opened -Hotels in Atlanta, Georgia
+[INFO ] 2018-08-14 12:33:46.583 [main] Footer - Link opened -Hotels in Philadelphia, Pennsylvania
+[INFO ] 2018-08-14 12:33:46.790 [main] Footer - Link opened -Hotels in Austin, Texas
+[INFO ] 2018-08-14 12:33:47.039 [main] Footer - Link opened -Hotels in Atlantic City, New Jersey
+[INFO ] 2018-08-14 12:33:47.211 [main] Footer - Link opened -Hotels in Rome, Italy
+[INFO ] 2018-08-14 12:33:47.344 [main] Footer - Link opened -Hotels in Myrtle Beach, South Carolina
+[INFO ] 2018-08-14 12:33:47.513 [main] Footer - Link opened -Hotels in Dallas, Texas
+[INFO ] 2018-08-14 12:33:47.640 [main] Footer - Link opened -Hotels in Houston, Texas
+[INFO ] 2018-08-14 12:33:47.794 [main] Footer - Link opened -Hotels in Denver, Colorado
+[INFO ] 2018-08-14 12:33:48.401 [main] Footer - Link opened -Hotels in Miami, Florida
+[INFO ] 2018-08-14 12:34:05.984 [main] Footer - TEST FINISHED

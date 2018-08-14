@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+
+    <listeners>
+
+     <listener class-name="listeners.TestListener"/>
+    </listeners>
+
+    <test name="FlightOnly Test">
+    <groups>
+        <run>
+            <include name="FlightOnly"/>
+        </run>
+    </groups>
+    </test>
+
+    <test name="Create an account Test">
+        <classes>
+            <class name="positiveTC.CreateAnAccount" />
+        </classes>
+    </test>
+
+    <test name="FlightOnlyMultiCity Test">
+        <classes>
+            <class name="positiveTC.FlightOnlyMultiCity" />
+        </classes>
+    </test>
+    <test name="FlightOnlyRoundTrip Test">
+        <classes>
+            <class name="positiveTC.FlightOnlyRoundtrip" />
+        </classes>
+    </test>
+    <test name="FlightOnlyOneWay Test">
+        <classes>
+            <class name="positiveTC.FlightOnlyOneWay" />
+        </classes>
+    </test>
+
+
+    <test name="Login Test">
+        <classes>
+            <class name="positiveTC.Login"/>
+        </classes>
+    </test>
+
+    <test name="FlightHotel Test">
+        <classes>
+            <class name="positiveTC.FlightHotel"/>
+        </classes>
+    </test>
+
+    <test name="ThingsToDo Test">
+        <classes>
+            <class name="positiveTC.ThingsToDo"/>
+        </classes>
+    </test>
+
+     <test name="Footer Test">
+        <classes>
+            <class name="positiveTC.Footer"/>
+        </classes>
+    </test>
+
+
+</suite>
