@@ -517,3 +517,86 @@
 [INFO ] 2018-08-14 12:33:47.794 [main] Footer - Link opened -Hotels in Denver, Colorado
 [INFO ] 2018-08-14 12:33:48.401 [main] Footer - Link opened -Hotels in Miami, Florida
 [INFO ] 2018-08-14 12:34:05.984 [main] Footer - TEST FINISHED
+[INFO ] 2019-01-16 15:52:29.526 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:02:26.412 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:09:13.541 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:11:26.860 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:13:08.354 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:14:01.757 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:15:18.152 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2019-01-16 16:15:18.298 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:15:19.971 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2019-01-16 16:15:26.746 [main] FlightHotel - Driver is initialized
+[INFO ] 2019-01-16 16:15:27.311 [main] FlightHotel - TEST FINISHED
+[INFO ] 2019-01-16 16:15:32.216 [main] FlightHotel - Driver is initialized
+[INFO ] 2019-01-16 16:15:37.431 [main] FlightHotel - TEST FINISHED
+[INFO ] 2019-01-16 16:15:40.649 [main] FlightHotel - Driver is initialized
+[INFO ] 2019-01-16 16:15:44.092 [main] FlightHotel - One Way grid is displayed
+[INFO ] 2019-01-16 16:15:45.368 [main] FlightHotel - TEST FINISHED
+[INFO ] 2019-01-16 16:15:48.179 [main] Login - Driver is initialized
+[INFO ] 2019-01-16 16:15:48.183 [main] Login - Page is opened
+[INFO ] 2019-01-16 16:15:48.779 [main] Login - Drop down menu is displayed
+[INFO ] 2019-01-16 16:15:52.331 [main] Login - Sign In grid is displayed 
+[INFO ] 2019-01-16 16:15:56.088 [main] Login - TEST FINISHED
+[INFO ] 2019-01-16 16:16:01.396 [main] FlightHotel - Driver is initialized
+[INFO ] 2019-01-16 16:16:13.137 [main] FlightHotel - Flight an Hotel grid is displayed
+[INFO ] 2019-01-16 16:16:14.170 [main] FlightHotel - TEST FINISHED
+[INFO ] 2019-01-16 16:16:17.542 [main] ThingsToDo - Driver is initialized
+[INFO ] 2019-01-16 16:16:18.268 [main] ThingsToDo - TEST FINISHED
+[INFO ] 2019-01-16 16:16:20.408 [main] Footer - Driver is initialized
+[INFO ] 2019-01-16 16:16:21.479 [main] Footer - TEST FINISHED
+[INFO ] 2019-01-16 16:19:38.454 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:21:09.227 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:21:36.482 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:26:52.591 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:28:51.908 [main] CreateAnAccount - Driver is initialized
+[INFO ] 2019-01-16 16:28:51.993 [main] CreateAnAccount - Data provider return data
+[INFO ] 2019-01-16 16:28:55.706 [main] CreateAnAccount - Entered data in 'UserName' field
+[INFO ] 2019-01-16 16:28:55.822 [main] CreateAnAccount - Entered data in 'Password' field
+[INFO ] 2019-01-16 16:28:55.917 [main] CreateAnAccount - Entered data in 'FirstName' field
+[INFO ] 2019-01-16 16:28:56.031 [main] CreateAnAccount - Entered data in 'LastName' field
+[INFO ] 2019-01-16 16:29:08.442 [main] CreateAnAccount - TEST FINISHED
+[INFO ] 2019-01-16 16:29:12.881 [main] FlightHotel - Driver is initialized
+[INFO ] 2019-01-16 16:29:19.056 [main] FlightHotel - Multy City grid is displayed
+[INFO ] 2019-01-16 16:29:20.301 [main] FlightHotel - TEST FINISHED
+[INFO ] 2019-01-16 16:29:23.589 [main] FlightHotel - Driver is initialized
+[INFO ] 2019-01-16 16:29:30.067 [main] FlightHotel - Roundtrip grid is displayed
+[INFO ] 2019-01-16 16:29:31.278 [main] FlightHotel - TEST FINISHED
+[INFO ] 2019-01-16 16:29:34.488 [main] FlightHotel - Driver is initialized
+[INFO ] 2019-01-16 16:29:38.143 [main] FlightHotel - One Way grid is displayed
+[INFO ] 2019-01-16 16:29:39.672 [main] FlightHotel - TEST FINISHED
+[INFO ] 2019-01-16 16:29:43.929 [main] Login - Driver is initialized
+[INFO ] 2019-01-16 16:29:43.932 [main] Login - Page is opened
+[INFO ] 2019-01-16 16:29:44.231 [main] Login - Drop down menu is displayed
+[INFO ] 2019-01-16 16:29:46.915 [main] Login - Sign In grid is displayed 
+[INFO ] 2019-01-16 16:29:48.916 [main] Login - TEST FINISHED
+[INFO ] 2019-01-16 16:29:52.112 [main] FlightHotel - Driver is initialized
+[INFO ] 2019-01-16 16:29:59.818 [main] FlightHotel - Flight an Hotel grid is displayed
+[INFO ] 2019-01-16 16:30:00.938 [main] FlightHotel - TEST FINISHED
+[INFO ] 2019-01-16 16:30:04.038 [main] ThingsToDo - Driver is initialized
+[INFO ] 2019-01-16 16:30:08.329 [main] ThingsToDo - TEST FINISHED
+[INFO ] 2019-01-16 16:30:10.973 [main] Footer - Driver is initialized
+[INFO ] 2019-01-16 16:30:13.162 [main] Footer - Link opened -Hotels in Las Vegas, Nevada
+[INFO ] 2019-01-16 16:30:13.319 [main] Footer - Link opened -Hotels in Chicago, Illinois
+[INFO ] 2019-01-16 16:30:13.532 [main] Footer - Link opened -Hotels in San Francisco, California
+[INFO ] 2019-01-16 16:30:13.881 [main] Footer - Link opened -Hotels in Washington, District of Columbia
+[INFO ] 2019-01-16 16:30:14.110 [main] Footer - Link opened -Hotels in Boston, Massachusetts
+[INFO ] 2019-01-16 16:30:14.342 [main] Footer - Link opened -Hotels in San Diego, California
+[INFO ] 2019-01-16 16:30:14.688 [main] Footer - Link opened -Hotels in Orlando, Florida
+[INFO ] 2019-01-16 16:30:14.931 [main] Footer - Link opened -Hotels in London, United Kingdom
+[INFO ] 2019-01-16 16:30:15.167 [main] Footer - Link opened -Hotels in New Orleans, Louisiana
+[INFO ] 2019-01-16 16:30:15.364 [main] Footer - Link opened -Hotels in Los Angeles, California
+[INFO ] 2019-01-16 16:30:15.651 [main] Footer - Link opened -Hotels in San Antonio, Texas
+[INFO ] 2019-01-16 16:30:15.938 [main] Footer - Link opened -Hotels in Paris, France
+[INFO ] 2019-01-16 16:30:16.522 [main] Footer - Link opened -Hotels in Seattle, Washington
+[INFO ] 2019-01-16 16:30:17.275 [main] Footer - Link opened -Hotels in Atlanta, Georgia
+[INFO ] 2019-01-16 16:30:18.163 [main] Footer - Link opened -Hotels in Philadelphia, Pennsylvania
+[INFO ] 2019-01-16 16:30:18.771 [main] Footer - Link opened -Hotels in Austin, Texas
+[INFO ] 2019-01-16 16:30:22.185 [main] Footer - Link opened -Hotels in Atlantic City, New Jersey
+[INFO ] 2019-01-16 16:30:23.842 [main] Footer - Link opened -Hotels in Rome, Italy
+[INFO ] 2019-01-16 16:30:24.359 [main] Footer - Link opened -Hotels in Myrtle Beach, South Carolina
+[INFO ] 2019-01-16 16:30:25.605 [main] Footer - Link opened -Hotels in Dallas, Texas
+[INFO ] 2019-01-16 16:30:26.312 [main] Footer - Link opened -Hotels in Houston, Texas
+[INFO ] 2019-01-16 16:30:27.561 [main] Footer - Link opened -Hotels in Denver, Colorado
+[INFO ] 2019-01-16 16:30:30.623 [main] Footer - Link opened -Hotels in Miami, Florida
+[INFO ] 2019-01-16 16:31:27.163 [main] Footer - TEST FINISHED

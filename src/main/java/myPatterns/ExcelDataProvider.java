@@ -19,7 +19,7 @@ public  class ExcelDataProvider {
 
     }
     public static ArrayList<String> getExceldata(String sheetName, String rowName) throws IOException {
-        FileInputStream fis = new FileInputStream("/Users/nonna/Desktop/test_framework/src/main/resources/DataProviderExcel.xlsx");
+        FileInputStream fis = new FileInputStream("./src/main/resources/DataProviderExcel.xlsx");
         XSSFWorkbook data_excel = new XSSFWorkbook(fis);
         ArrayList<String> data_list = new ArrayList<>();
         for (int i = 0; i < data_excel.getNumberOfSheets(); i++) {

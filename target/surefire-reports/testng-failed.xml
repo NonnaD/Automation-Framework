@@ -6,6 +6,36 @@
   </listeners>
   <test name="Create an account Test(failed)">
     <classes>
+      <class name="positiveTC.ThingsToDo">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.ThingsToDo -->
+      <class name="positiveTC.FlightOnlyOneWay">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyOneWay -->
+      <class name="positiveTC.FlightOnlyRoundtrip">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyRoundtrip -->
+      <class name="positiveTC.FlightOnlyMultiCity">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyMultiCity -->
+      <class name="positiveTC.FlightHotel">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightHotel -->
       <class name="positiveTC.CreateAnAccount">
         <methods>
           <include name="tearDown"/>
@@ -13,58 +43,22 @@
           <include name="craeteAccount" invocation-numbers="0"/>
         </methods>
       </class> <!-- positiveTC.CreateAnAccount -->
-      <class name="positiveTC.ThingsToDo">
-        <methods>
-          <include name="initialize"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- positiveTC.ThingsToDo -->
-      <class name="positiveTC.FlightOnlyOneWay">
-        <methods>
-          <include name="initialize"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- positiveTC.FlightOnlyOneWay -->
-      <class name="positiveTC.FlightHotel">
-        <methods>
-          <include name="initialize"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- positiveTC.FlightHotel -->
-      <class name="positiveTC.FlightOnlyMultiCity">
-        <methods>
-          <include name="tearDown"/>
-          <include name="initialize"/>
-        </methods>
-      </class> <!-- positiveTC.FlightOnlyMultiCity -->
-      <class name="positiveTC.Footer">
-        <methods>
-          <include name="tearDown"/>
-          <include name="initialize"/>
-        </methods>
-      </class> <!-- positiveTC.Footer -->
       <class name="positiveTC.Login">
         <methods>
           <include name="initialize"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- positiveTC.Login -->
-      <class name="positiveTC.FlightOnlyRoundtrip">
+      <class name="positiveTC.Footer">
         <methods>
-          <include name="initialize"/>
           <include name="tearDown"/>
+          <include name="initialize"/>
         </methods>
-      </class> <!-- positiveTC.FlightOnlyRoundtrip -->
+      </class> <!-- positiveTC.Footer -->
     </classes>
   </test> <!-- Create an account Test(failed) -->
-  <test name="Login Test(failed)">
+  <test name="FlightOnlyMultiCity Test(failed)">
     <classes>
-      <class name="positiveTC.CreateAnAccount">
-        <methods>
-          <include name="tearDown"/>
-          <include name="initialize"/>
-        </methods>
-      </class> <!-- positiveTC.CreateAnAccount -->
       <class name="positiveTC.ThingsToDo">
         <methods>
           <include name="initialize"/>
@@ -77,24 +71,189 @@
           <include name="tearDown"/>
         </methods>
       </class> <!-- positiveTC.FlightOnlyOneWay -->
+      <class name="positiveTC.FlightOnlyRoundtrip">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyRoundtrip -->
+      <class name="positiveTC.FlightOnlyMultiCity">
+        <methods>
+          <include name="multyCity"/>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyMultiCity -->
       <class name="positiveTC.FlightHotel">
         <methods>
           <include name="initialize"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- positiveTC.FlightHotel -->
-      <class name="positiveTC.FlightOnlyMultiCity">
+      <class name="positiveTC.CreateAnAccount">
         <methods>
           <include name="tearDown"/>
           <include name="initialize"/>
         </methods>
-      </class> <!-- positiveTC.FlightOnlyMultiCity -->
+      </class> <!-- positiveTC.CreateAnAccount -->
+      <class name="positiveTC.Login">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.Login -->
       <class name="positiveTC.Footer">
         <methods>
           <include name="tearDown"/>
           <include name="initialize"/>
         </methods>
       </class> <!-- positiveTC.Footer -->
+    </classes>
+  </test> <!-- FlightOnlyMultiCity Test(failed) -->
+  <test name="FlightOnlyRoundTrip Test(failed)">
+    <classes>
+      <class name="positiveTC.FlightOnlyRoundtrip">
+        <methods>
+          <include name="flightOnlyRoundtrip"/>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyRoundtrip -->
+      <class name="positiveTC.ThingsToDo">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.ThingsToDo -->
+      <class name="positiveTC.FlightOnlyOneWay">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyOneWay -->
+      <class name="positiveTC.FlightOnlyMultiCity">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyMultiCity -->
+      <class name="positiveTC.FlightHotel">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightHotel -->
+      <class name="positiveTC.CreateAnAccount">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.CreateAnAccount -->
+      <class name="positiveTC.Login">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.Login -->
+      <class name="positiveTC.Footer">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.Footer -->
+    </classes>
+  </test> <!-- FlightOnlyRoundTrip Test(failed) -->
+  <test name="FlightOnlyOneWay Test(failed)">
+    <classes>
+      <class name="positiveTC.FlightOnlyOneWay">
+        <methods>
+          <include name="flightOneWay"/>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyOneWay -->
+      <class name="positiveTC.ThingsToDo">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.ThingsToDo -->
+      <class name="positiveTC.FlightOnlyRoundtrip">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyRoundtrip -->
+      <class name="positiveTC.FlightOnlyMultiCity">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyMultiCity -->
+      <class name="positiveTC.FlightHotel">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightHotel -->
+      <class name="positiveTC.CreateAnAccount">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.CreateAnAccount -->
+      <class name="positiveTC.Login">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.Login -->
+      <class name="positiveTC.Footer">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.Footer -->
+    </classes>
+  </test> <!-- FlightOnlyOneWay Test(failed) -->
+  <test name="Login Test(failed)">
+    <classes>
+      <class name="positiveTC.ThingsToDo">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.ThingsToDo -->
+      <class name="positiveTC.FlightOnlyOneWay">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyOneWay -->
+      <class name="positiveTC.FlightOnlyRoundtrip">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyRoundtrip -->
+      <class name="positiveTC.FlightOnlyMultiCity">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyMultiCity -->
+      <class name="positiveTC.FlightHotel">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightHotel -->
+      <class name="positiveTC.CreateAnAccount">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.CreateAnAccount -->
       <class name="positiveTC.Login">
         <methods>
           <include name="initialize"/>
@@ -102,12 +261,118 @@
           <include name="tearDown"/>
         </methods>
       </class> <!-- positiveTC.Login -->
+      <class name="positiveTC.Footer">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.Footer -->
+    </classes>
+  </test> <!-- Login Test(failed) -->
+  <test name="FlightHotel Test(failed)">
+    <classes>
+      <class name="positiveTC.ThingsToDo">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.ThingsToDo -->
+      <class name="positiveTC.FlightOnlyOneWay">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyOneWay -->
       <class name="positiveTC.FlightOnlyRoundtrip">
         <methods>
           <include name="initialize"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- positiveTC.FlightOnlyRoundtrip -->
+      <class name="positiveTC.FlightOnlyMultiCity">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyMultiCity -->
+      <class name="positiveTC.FlightHotel">
+        <methods>
+          <include name="initialize"/>
+          <include name="flightHotel"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightHotel -->
+      <class name="positiveTC.CreateAnAccount">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.CreateAnAccount -->
+      <class name="positiveTC.Login">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.Login -->
+      <class name="positiveTC.Footer">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.Footer -->
     </classes>
-  </test> <!-- Login Test(failed) -->
+  </test> <!-- FlightHotel Test(failed) -->
+  <test name="ThingsToDo Test(failed)">
+    <classes>
+      <class name="positiveTC.ThingsToDo">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+          <include name="thingsToDo"/>
+        </methods>
+      </class> <!-- positiveTC.ThingsToDo -->
+      <class name="positiveTC.FlightOnlyOneWay">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyOneWay -->
+      <class name="positiveTC.FlightOnlyRoundtrip">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyRoundtrip -->
+      <class name="positiveTC.FlightOnlyMultiCity">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.FlightOnlyMultiCity -->
+      <class name="positiveTC.FlightHotel">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.FlightHotel -->
+      <class name="positiveTC.CreateAnAccount">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.CreateAnAccount -->
+      <class name="positiveTC.Login">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- positiveTC.Login -->
+      <class name="positiveTC.Footer">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- positiveTC.Footer -->
+    </classes>
+  </test> <!-- ThingsToDo Test(failed) -->
 </suite> <!-- Failed suite [All Test Suite] -->

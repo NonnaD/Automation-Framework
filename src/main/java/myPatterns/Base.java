@@ -11,6 +11,7 @@ import org.openqa.selenium.opera.OperaDriver;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.net.URL;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
@@ -21,9 +22,8 @@ public  class Base {
 
     public WebDriver initializeDriver() throws IOException {
 
-
         Properties dataProp = new Properties();
-        FileInputStream dataPropInput = new FileInputStream("/Users/nonna/Desktop/test_framework/src/main/resources/data.properties");
+       FileInputStream dataPropInput = new FileInputStream("./src/main/resources/data.properties");
         dataProp.load(dataPropInput);
         String browserName = dataProp.getProperty("browser");
         String osName = dataProp.getProperty("os");

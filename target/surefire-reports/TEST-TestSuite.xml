@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="338.771" tests="8" errors="0" skipped="0" failures="2">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="192.528" tests="8" errors="0" skipped="0" failures="7">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
-    <property name="java.specification.version" value="10"/>
-    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.class.path" value="/usr/local/apache-maven/apache-maven-3.5.4/boot/plexus-classworlds-2.5.2.jar"/>
-    <property name="java.vm.vendor" value="&quot;Oracle Corporation&quot;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="user.timezone" value="America/Phoenix"/>
     <property name="maven.conf" value="/usr/local/apache-maven/apache-maven-3.5.4/conf"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="java.vm.specification.version" value="10"/>
+    <property name="java.vm.specification.version" value="11"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
-    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib"/>
     <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
@@ -26,8 +25,8 @@
     <property name="user.home" value="/Users/nonna"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.version.date" value="2018-07-17"/>
-    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home"/>
+    <property name="java.version.date" value="2018-10-16"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home"/>
     <property name="file.separator" value="/"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
@@ -36,65 +35,135 @@
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
-    <property name="java.runtime.version" value="10.0.2+13"/>
+    <property name="java.runtime.version" value="11.0.1+13-LTS"/>
     <property name="user.name" value="nonna"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="10.13.5"/>
+    <property name="os.version" value="10.13.6"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="java.vendor.version" value="18.3"/>
+    <property name="java.vendor.version" value="18.9"/>
     <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="/var/folders/mq/n3z2lwc5485c6qkfpdxd5__40000gn/T/"/>
-    <property name="java.version" value="10.0.2"/>
-    <property name="user.dir" value="/Users/nonna/Desktop/test_framework"/>
+    <property name="java.version" value="11.0.1"/>
+    <property name="user.dir" value="/Users/nonna/Desktop/MyFirstFramework/Automation-Framework"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/nonna/Desktop/test_framework"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/nonna/Desktop/MyFirstFramework/Automation-Framework"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.library.path" value="/Users/nonna/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.info" value="mixed mode"/>
-    <property name="java.vm.version" value="10.0.2+13"/>
+    <property name="java.vm.version" value="11.0.1+13-LTS"/>
     <property name="classworlds.conf" value="/usr/local/apache-maven/apache-maven-3.5.4/bin/m2.conf"/>
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="library.jansi.path" value="/usr/local/apache-maven/apache-maven-3.5.4/lib/jansi-native"/>
-    <property name="java.class.version" value="54.0"/>
+    <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="craeteAccount" classname="positiveTC.CreateAnAccount" time="22.813">
+  <testcase name="craeteAccount" classname="positiveTC.CreateAnAccount" time="16.048">
     <failure message="We weren’t able to sign you up because there’s already an existing account for this email address. If you’ve forgotten your password, we’ll help to reset it expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: We weren’t able to sign you up because there’s already an existing account for this email address. If you’ve forgotten your password, we’ll help to reset it expected [true] but found [false]
 	at positiveTC.CreateAnAccount.craeteAccount(CreateAnAccount.java:56)
 </failure>
-    <system-out><![CDATA[positiveTC.CreateAnAccount@2ee83775
+    <system-out><![CDATA[positiveTC.CreateAnAccount@3330f3ad
+positiveTC.CreateAnAccount@3330f3ad
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 42426
+    <system-err><![CDATA[SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/Users/nonna/.m2/repository/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/Users/nonna/.m2/repository/org/slf4j/slf4j-jdk14/1.5.3/slf4j-jdk14-1.5.3.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 39818
 Only local connections are allowed.
-Aug 14, 2018 12:29:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Jan 16, 2019 4:28:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: OSS
 log4j:WARN No appenders could be found for logger (io.qameta.allure.AllureLifecycle).
 log4j:WARN Please initialize the log4j system properly.
 log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
 ]]></system-err>
   </testcase>
-  <testcase name="multyCity" classname="positiveTC.FlightOnlyMultiCity" time="20.439"/>
-  <testcase name="flightOnlyRoundtrip" classname="positiveTC.FlightOnlyRoundtrip" time="13.835"/>
-  <testcase name="flightOneWay" classname="positiveTC.FlightOnlyOneWay" time="10.415"/>
-  <testcase name="logIn" classname="positiveTC.Login" time="30.295">
-    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at positiveTC.Login.logIn(Login.java:60)
+  <testcase name="multyCity" classname="positiveTC.FlightOnlyMultiCity" time="7.039">
+    <failure message="/Users/nonna/Desktop/test_framework/src/main/resources/DataProviderExcel.xlsx (No such file or directory)" type="java.io.FileNotFoundException">java.io.FileNotFoundException: /Users/nonna/Desktop/test_framework/src/main/resources/DataProviderExcel.xlsx (No such file or directory)
+	at positiveTC.FlightOnlyMultiCity.multyCity(FlightOnlyMultiCity.java:39)
 </failure>
-    <system-out><![CDATA[positiveTC.Login@7c1447b5
+    <system-out><![CDATA[positiveTC.FlightOnlyMultiCity@518ddd3b
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 33839
+    <system-err><![CDATA[Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 15159
 Only local connections are allowed.
-Aug 14, 2018 12:32:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Jan 16, 2019 4:29:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: OSS
 ]]></system-err>
   </testcase>
-  <testcase name="flightHotel" classname="positiveTC.FlightHotel" time="19.056"/>
-  <testcase name="thingsToDo" classname="positiveTC.ThingsToDo" time="7.135"/>
-  <testcase name="footer" classname="positiveTC.Footer" time="30.847"/>
+  <testcase name="flightOnlyRoundtrip" classname="positiveTC.FlightOnlyRoundtrip" time="7.421">
+    <failure message="/Users/nonna/Desktop/test_framework/src/main/resources/DataProviderExcel.xlsx (No such file or directory)" type="java.io.FileNotFoundException">java.io.FileNotFoundException: /Users/nonna/Desktop/test_framework/src/main/resources/DataProviderExcel.xlsx (No such file or directory)
+	at positiveTC.FlightOnlyRoundtrip.flightOnlyRoundtrip(FlightOnlyRoundtrip.java:37)
+</failure>
+    <system-out><![CDATA[positiveTC.FlightOnlyRoundtrip@497b560e
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 15732
+Only local connections are allowed.
+Jan 16, 2019 4:29:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="flightOneWay" classname="positiveTC.FlightOnlyOneWay" time="4.345">
+    <failure message="/Users/nonna/Desktop/test_framework/src/main/resources/DataProviderExcel.xlsx (No such file or directory)" type="java.io.FileNotFoundException">java.io.FileNotFoundException: /Users/nonna/Desktop/test_framework/src/main/resources/DataProviderExcel.xlsx (No such file or directory)
+	at positiveTC.FlightOnlyOneWay.flightOneWay(FlightOnlyOneWay.java:37)
+</failure>
+    <system-out><![CDATA[positiveTC.FlightOnlyOneWay@772caabe
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 9386
+Only local connections are allowed.
+Jan 16, 2019 4:29:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="logIn" classname="positiveTC.Login" time="4.761">
+    <failure message="element not visible&#10;  (Session info: chrome=71.0.3578.98)&#10;  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: &apos;3.13.0&apos;, revision: &apos;2f0d292&apos;, time: &apos;2018-06-25T15:24:21.231Z&apos;&#10;System info: host: &apos;Nonnas-MBP.domain&apos;, ip: &apos;192.168.0.52&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.13.6&apos;, java.version: &apos;11.0.1&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/mq/n3z2lwc5485...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}&#10;Session ID: 640eb301bcad5036cd53765efab917c0" type="org.openqa.selenium.ElementNotVisibleException">org.openqa.selenium.ElementNotVisibleException: 
+element not visible
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'Nonnas-MBP.domain', ip: '192.168.0.52', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/mq/n3z2lwc5485...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 640eb301bcad5036cd53765efab917c0
+	at positiveTC.Login.logIn(Login.java:52)
+</failure>
+    <system-out><![CDATA[positiveTC.Login@465b38e6
+positiveTC.Login@465b38e6
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 15988
+Only local connections are allowed.
+Jan 16, 2019 4:29:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="flightHotel" classname="positiveTC.FlightHotel" time="8.423">
+    <failure message="/Users/nonna/Desktop/test_framework/src/main/resources/DataProviderExcel.xlsx (No such file or directory)" type="java.io.FileNotFoundException">java.io.FileNotFoundException: /Users/nonna/Desktop/test_framework/src/main/resources/DataProviderExcel.xlsx (No such file or directory)
+	at positiveTC.FlightHotel.flightHotel(FlightHotel.java:37)
+</failure>
+    <system-out><![CDATA[positiveTC.FlightHotel@6d08b4e6
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 10028
+Only local connections are allowed.
+Jan 16, 2019 4:29:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="thingsToDo" classname="positiveTC.ThingsToDo" time="3.996">
+    <failure message="/Users/nonna/Desktop/test_framework/src/main/resources/DataProviderExcel.xlsx (No such file or directory)" type="java.io.FileNotFoundException">java.io.FileNotFoundException: /Users/nonna/Desktop/test_framework/src/main/resources/DataProviderExcel.xlsx (No such file or directory)
+	at positiveTC.ThingsToDo.thingsToDo(ThingsToDo.java:37)
+</failure>
+    <system-out><![CDATA[positiveTC.ThingsToDo@42505474
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 10875
+Only local connections are allowed.
+Jan 16, 2019 4:30:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="footer" classname="positiveTC.Footer" time="64.835"/>
 </testsuite>
